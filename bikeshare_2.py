@@ -29,10 +29,10 @@ def get_filters():
     Asks user to specify a city, month, and day to analyze.
 
     Returns:
-        1. (str) city - name of the city to analyze
+        1. (str) city - name of the city(s) to analyze
         2. (str) month - name of the month to filter by, or "all"
         to apply no month filter
-        3. (str) day - name of the day of week to filter by, or "all"
+        3. (str) day - name of the day(s) of week to filter by, or "all"
         to apply no day filter
     """
 
