@@ -222,6 +222,7 @@ def user_stats(df):
     start_time = time.time()
 
     # Display user stats
+    # Display user stats.
     # -------------------START--------------------------
     # Display counts of user types
     if 'User Type' in df.columns:
