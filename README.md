@@ -17,4 +17,5 @@ bikeshare_2.py,chicago.csv,washington.csv,new_york_city.csv
 ### Credits
 https://www.digitalocean.com/community/tutorials/fork-clone-make-changes-push-to-github
 https://github.com/vamshi-krishna-prime/Programming_for_Data_Science_with_Python_Nanodegree.git
+https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/ch04.html
 
